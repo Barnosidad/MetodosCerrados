@@ -1,0 +1,17 @@
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\MetodosCerrados.exe
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\MetodosCerrados.deps.json
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\MetodosCerrados.runtimeconfig.json
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\MetodosCerrados.dll
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\MetodosCerrados.pdb
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.csproj.AssemblyReference.cache
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.AssemblyInfoInputs.cache
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.AssemblyInfo.cs
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.csproj.CoreCompileInputs.cache
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosC.5F6552B4.Up2Date
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.dll
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\refint\MetodosCerrados.dll
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.pdb
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\MetodosCerrados.genruntimeconfig.cache
+C:\Users\gh098\Desktop\Programar\MetodosNumericos\MetodosCerrados\obj\Debug\net8.0\ref\MetodosCerrados.dll

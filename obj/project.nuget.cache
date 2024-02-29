@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jDL86oKrdD6Am5ez0Je/NnPLPCHjjV0GSCezxbN2UUCeLg50L4OUz7vK/ERYTCqwCKBMuZy7WwyR+hsfYlwUIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gh098\\Desktop\\Programar\\MetodosNumericos\\MetodosCerrados\\MetodosCerrados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gh098\\.nuget\\packages\\system.linq.dynamic.core\\1.3.9\\system.linq.dynamic.core.1.3.9.nupkg.sha512"
+  ],
+  "logs": []
+}
